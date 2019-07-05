@@ -152,7 +152,7 @@ U 1 1 5CFD4AEC
 P 750 1500
 F 0 "J1" H 642 1785 50  0000 C CNN
 F 1 "Conn_01x04_Female" H 642 1694 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 750 1500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 750 1500 50  0001 C CNN
 F 3 "~" H 750 1500 50  0001 C CNN
 	1    750  1500
 	-1   0    0    -1  
